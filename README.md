@@ -2,10 +2,11 @@
 
 Запуск
 
-В корне проекта запустить команду docker compose up --build -d
+В корне проекта запустить команду `docker compose up --build -d`
+
 Создать бд
 - перейти в папку app
-- выполнить команду php bin/console doctrine:migrations:migrate
+- выполнить команду `php bin/console doctrine:migrations:migrate`
 
 Использование
 
