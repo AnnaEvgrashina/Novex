@@ -9,8 +9,8 @@
 
 Использование
 
-GET /api/v1/users -- получить всех пользователей
-POST /api/v1/users -- POST Создать пользователя
-GET /api/v1/users/{id} --  Получить пользователя
-PATCH /api/v1/users/{id} --  Обновить пользователя
-DELETE /api/v1/users/{id} --  Удалить пользователя
+ - GET /api/v1/users -- получить всех пользователей
+ - POST /api/v1/users -- POST Создать пользователя
+ - GET /api/v1/users/{id} --  Получить пользователя
+ - PATCH /api/v1/users/{id} --  Обновить пользователя
+ - DELETE /api/v1/users/{id} --  Удалить пользователя
